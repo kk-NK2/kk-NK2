@@ -1,6 +1,6 @@
 👋 Hi,there
 - 
-- I am a circuit designer
+- I am a beginner circuit designer
 - Twitter: https://x.com/kouu_132
 <!---
 kk-kouki/kk-kouki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
